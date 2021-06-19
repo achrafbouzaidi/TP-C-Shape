@@ -1,0 +1,16 @@
+/home/achraf/Desktop/AchrafProjet/bin/Debug/net5.0/AchrafProjet
+/home/achraf/Desktop/AchrafProjet/bin/Debug/net5.0/AchrafProjet.deps.json
+/home/achraf/Desktop/AchrafProjet/bin/Debug/net5.0/AchrafProjet.runtimeconfig.json
+/home/achraf/Desktop/AchrafProjet/bin/Debug/net5.0/AchrafProjet.runtimeconfig.dev.json
+/home/achraf/Desktop/AchrafProjet/bin/Debug/net5.0/AchrafProjet.dll
+/home/achraf/Desktop/AchrafProjet/bin/Debug/net5.0/ref/AchrafProjet.dll
+/home/achraf/Desktop/AchrafProjet/bin/Debug/net5.0/AchrafProjet.pdb
+/home/achraf/Desktop/AchrafProjet/obj/Debug/net5.0/AchrafProjet.csproj.AssemblyReference.cache
+/home/achraf/Desktop/AchrafProjet/obj/Debug/net5.0/AchrafProjet.GeneratedMSBuildEditorConfig.editorconfig
+/home/achraf/Desktop/AchrafProjet/obj/Debug/net5.0/AchrafProjet.AssemblyInfoInputs.cache
+/home/achraf/Desktop/AchrafProjet/obj/Debug/net5.0/AchrafProjet.AssemblyInfo.cs
+/home/achraf/Desktop/AchrafProjet/obj/Debug/net5.0/AchrafProjet.csproj.CoreCompileInputs.cache
+/home/achraf/Desktop/AchrafProjet/obj/Debug/net5.0/AchrafProjet.dll
+/home/achraf/Desktop/AchrafProjet/obj/Debug/net5.0/ref/AchrafProjet.dll
+/home/achraf/Desktop/AchrafProjet/obj/Debug/net5.0/AchrafProjet.pdb
+/home/achraf/Desktop/AchrafProjet/obj/Debug/net5.0/AchrafProjet.genruntimeconfig.cache
